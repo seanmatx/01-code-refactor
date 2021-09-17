@@ -1,7 +1,7 @@
 # 01 HTML, CSS, and Git
 
 ## Code Refactor
-!("Horiseon Code Refactor")(images/horiseon.png)
+![Horiseon Code Refactor](images/horiseon.png)
 
 ### Client Request
 - Horiseon, a marketing agency, wants their site to be optimized for SEO and built with a codebase that follows accessibility standards.
@@ -14,6 +14,6 @@
 - WHEN viewing the title element, THEN finding a concise, descriptive title
 
 ## Repository and Deployment
-- The repository is on (GitHub)(https://github.com/) here: https://github.com/seanmatx/01-code-refactor
+- The repository is on [GitHub](https://github.com/) here: https://github.com/seanmatx/01-code-refactor
 
 - The Horiseon Code Refactor app may be found here: https://seanmatx.github.io/01-code-refactor/
