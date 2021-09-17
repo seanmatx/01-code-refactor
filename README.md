@@ -3,10 +3,10 @@
 ## Code Refactor
 ![Horiseon Code Refactor](images/horiseon.png)
 
-### Client Request
+### User Story
 - Horiseon, a marketing agency, wants their site to be optimized for SEO and built with a codebase that follows accessibility standards.
 
-### Review Standards
+### Acceptance Criteria
 - WHEN viewing the source code, THEN finding HTML elements
 - WHEN viewing the structure of the HTML elements, THEN finding the elements follow a logical structure independent of styling and positioning
 - WHEN viewing the image elements, THEN finding accessible alt attributes
