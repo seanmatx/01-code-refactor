@@ -118,3 +118,20 @@ You are required to submit the following for review:
 
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+---
+<!-- Great effort here, Sean, and good work getting caught up! Your deployed site matches the screenshot in the instructions, and your code is formatted well overall. It can be a challenge to remember everything learned in the first week of class, so I have a few reminders for you. -->
+
+<!-- I noticed that the links in the nav do not take the user to the corresponding sections below, and on inspecting your code, I see that there are no id attributes for the divs that the links are supposed to redirect to. For example, the <a href> on line 16 should direct to the section on line 26, but that div only has a class attribute and not an id attribute that matches the <a href> tag. Add the matching id attribute, and you should be all set there. -->
+<!-- 
+Also in that file: -->
+
+<!-- try to use a variety of semantic elements such as <section>, <article>, and <aside> to reduce the overuse of <div>. -->
+<!-- add descriptive alt attributes to your images. Currently, you have these attributes, but they do not describe what is in the image. The alt attribute should describe the contents of the image in case the image cannot be displayed. It provides alternative information if a user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader). -->
+In your style.css, try to consolidate the code so there is less repetition. For example, the 3 styles on lines 90-103 are identical. Consider deleting all but one, then going to the index.html file and assigning the name of that one to the HTML elements that are supposed to have that same style.
+
+Also in that file, use comments to divide your CSS into the sections of your HTML file, such as header, such and such section, and so on.
+
+<!-- Finally, use a unique name for your repos such as "Code Refactor" --> and remember to add a link to your deployed app in the readme. 
+
+<!-- Overall, with a few tweaks, your refactor will be very professional. Good work! -->
